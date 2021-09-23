@@ -1,0 +1,23 @@
+{
+    "list": [
+        
+        {
+            "versType":"v1",
+            "date_update": "19.09.2021",
+            "versions": "1.1.95",
+            "type": "fix_error|updata|",
+            "link": "",
+            "cores": [
+                {
+                    "name":"opencart",
+                    "versions": ["3.*.*.*"]                    
+                },
+                {
+                    "name":"ocstore",
+                    "versions": ["3.0.3.*"]
+                }
+            ],
+            "description": ""
+        }
+    ]
+}
