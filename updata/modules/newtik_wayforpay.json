@@ -4,7 +4,7 @@
         {
             "versType": "v1",
             "date_update": "19.09.2022",
-            "versions": "1.5.95",
+            "version": "1.5.95",
             "type": "critical",
             "linkUpDate": "",
             "linkChangeLog": "",
@@ -36,7 +36,7 @@
         {
             "versType": "v1",
             "date_update": "19.09.2022",
-            "versions": "1.6.95",
+            "version": "1.6.95",
             "type": "critical",
             "linkUpDate": "",
             "linkChangeLog": "",
@@ -68,7 +68,7 @@
         {
             "versType": "v1",
             "date_update": "19.09.2022",
-            "versions": "1.7.95",
+            "version": "1.7.95",
             "type": "critical",
             "linkUpDate": "",
             "linkChangeLog": "",
