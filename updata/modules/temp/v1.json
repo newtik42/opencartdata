@@ -1,22 +1,64 @@
 {
     "list": [
         {
-            "versType":"v1",
+            "versType": "v1",
             "date_update": "19.09.2021",
             "version": "1.1.95",
             "type": "fix|update|critical",
-            "link": "",
+            "linkUpDate": "",
+            "linkChangeLog": "",
             "cores": [
                 {
-                    "name":"opencart",
+                    "name": "opencart",
                     "versions": ["3.*.*.*"]                    
                 },
                 {
-                    "name":"ocstore",
+                    "name": "ocstore",
                     "versions": ["3.0.3.*"]
                 }
             ],
-            "description": ""
+            "description": {
+                "en-gb": [
+                    "text1", 
+                    "text2"
+                ],
+                "ru-ru": [
+                    "text1", 
+                    "text2"
+                ],
+                "uk-ua": [
+                    "text1", 
+                    "text2"
+                ]
+            },
+            "add": {
+                "en-gb": [
+                    "text1", 
+                    "text2"
+                ],
+                "ru-ru": [
+                    "text1", 
+                    "text2"
+                ],
+                "uk-ua": [
+                    "text1", 
+                    "text2"
+                ]
+            },
+            "fix": {
+                "en-gb": [
+                    "text1", 
+                    "text2"
+                ],
+                "ru-ru": [
+                    "text1", 
+                    "text2"
+                ],
+                "uk-ua": [
+                    "text1", 
+                    "text2"
+                ]
+            }
         }
     ]
 }
