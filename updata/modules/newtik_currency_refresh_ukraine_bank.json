@@ -1,0 +1,22 @@
+{
+    "list": [
+        {
+            "versType": "v1",
+            "date_update": "10.04.2022",
+            "version": "1.4.15",
+            "type": "update",
+            "linkUpDate": "",
+            "linkChangeLog": "",
+            "cores": [
+                {
+                    "name": "opencart",
+                    "versions": ["3.*.*.*"]                    
+                },
+                {
+                    "name": "ocstore",
+                    "versions": ["3.0.3.*"]
+                }
+            ]            
+        }
+    ]
+}
