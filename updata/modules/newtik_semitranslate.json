@@ -1,0 +1,36 @@
+{
+    "list": [
+        {
+            "versType": "v1",
+            "date_update": "27.06.2022",
+            "version": "1.1.1",
+            "type": "update",
+            "linkUpDate": "",
+            "linkChangeLog": "",
+            "cores": [
+                {
+                    "name": "ocStore",
+                    "versions": [
+                        "3.x"
+                    ]
+                }
+            ]
+        },
+        {
+            "versType": "v1",
+            "date_update": "27.06.2022",
+            "version": "1.1.1",
+            "type": "update",
+            "linkUpDate": "",
+            "linkChangeLog": "",
+            "cores": [
+                {
+                    "name": "ocStore",
+                    "versions": [
+                        "3.x"
+                    ]
+                }
+            ]
+        }
+    ]
+}
